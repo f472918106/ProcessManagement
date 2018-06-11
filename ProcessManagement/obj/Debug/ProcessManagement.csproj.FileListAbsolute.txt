@@ -1,0 +1,6 @@
+C:\Users\47291\Desktop\新建文件夹\ProcessManagement\ProcessManagement\bin\Debug\ProcessManagement.exe.config
+C:\Users\47291\Desktop\新建文件夹\ProcessManagement\ProcessManagement\bin\Debug\ProcessManagement.exe
+C:\Users\47291\Desktop\新建文件夹\ProcessManagement\ProcessManagement\bin\Debug\ProcessManagement.pdb
+C:\Users\47291\Desktop\新建文件夹\ProcessManagement\ProcessManagement\obj\Debug\ProcessManagement.csprojResolveAssemblyReference.cache
+C:\Users\47291\Desktop\新建文件夹\ProcessManagement\ProcessManagement\obj\Debug\ProcessManagement.exe
+C:\Users\47291\Desktop\新建文件夹\ProcessManagement\ProcessManagement\obj\Debug\ProcessManagement.pdb
